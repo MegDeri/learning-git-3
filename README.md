@@ -1,1 +1,1 @@
-# learning-git-3
+# https://megderi.github.io/learning-git-3/
