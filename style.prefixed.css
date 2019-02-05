@@ -17,6 +17,7 @@ h2 {
   font-size: 20px; }
 
 p {
+  display: -ms-flexbox;
   display: flex;
   padding: 20px 50px; }
 
@@ -26,4 +27,4 @@ p {
   margin-left: 3%;
   color: #ccc; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
