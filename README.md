@@ -1,5 +1,5 @@
-# https://megderi.github.io/learning-git-3/
-
+## https://megderi.github.io/learning-git-3/
+##Project about: learning GIT
 ### Content: 5 branches:
 1. dev Magda, dev-Ade, task-4, task-5, master, readme
 2. Task-3-finished
